@@ -1,1 +1,1 @@
-now I can make a folder from the terminal using mkdir and learn some basic git like making repository, call it from git onto terminal, store it to git again, and view the log.
+now I can make a folder from the terminal using mkdir and learn some basic git like making repository, call it from git onto terminal, store it to git again, and view the log. well weill weill
